@@ -12,7 +12,7 @@
     border: 3px ridge rgb(221, 219, 231);
     outline: 3px ridge rgb(238, 238, 245);
     outline-offset: 5px;
-    background-image: url("images/background.jpg");
+    background-image: url("/images/background.jpg");
     background-position: top right;
     background-repeat: no-repeat;
     background-size: auto 200px;
