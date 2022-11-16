@@ -1,4 +1,4 @@
-# My next homework - a modification of the previous one
+# My next homework - a modification of the previous homepage_4
 ## *Description*
 <br>page icon and meta property added
 ## *Technologies used:*
